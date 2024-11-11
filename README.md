@@ -6,7 +6,7 @@ IDL stands for **Interface Definition Language**. It is a JSON file that describ
 
 CPI stands for **Cross-Program Invocation**. It is a mechanism that allows one Solana program (smart contract) to call another program within the Solana blockchain.
 
-[![My Skills](https://skillicons.dev/icons?i=rust,cpp,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,solidity,cpp,python,ts)](https://skillicons.dev)
 
 <!--
 1 SOL is equal to 1,000,000,000 lamports
