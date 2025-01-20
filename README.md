@@ -11,3 +11,7 @@ CPI stands for **Cross-Program Invocation**. It is a mechanism that allows one S
 <!--
 1 SOL is equal to 1,000,000,000 lamports
 -->
+
+<div>mainnet-beta https://api.mainnet-beta.solana.com</div>
+<div>devnet https://api.devnet.solana.com</div>
+<div>testnet https://api.testnet.solana.com</div>
