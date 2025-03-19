@@ -8,7 +8,7 @@ PDA stands for **Program-Derived Address**. It is a special type of account on S
 
 CPI stands for **Cross-Program Invocation**. It is a mechanism that allows one Solana program (smart contract) to call another program within the Solana blockchain.
 
-[![My Skills](https://skillicons.dev/icons?i=rust,solidity,cpp,python,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,cpp,python,ts)](https://skillicons.dev)
 
 <!--
 1 SOL is equal to 1,000,000,000 lamports
